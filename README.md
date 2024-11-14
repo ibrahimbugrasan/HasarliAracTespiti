@@ -56,6 +56,7 @@ Bu proje, hasarlı araç görsellerinden hasar tespiti yapmak amacıyla gelişti
 Çalıştırma
 
 •	Veri Kazıma:
+
 •	Eğer site görselleri bir link içinde saklıyorsa:
  	
   	python genelCrawler.py
@@ -65,6 +66,7 @@ Bu proje, hasarlı araç görsellerinden hasar tespiti yapmak amacıyla gelişti
    	python imgCrawler.py
 
 •	Veri İşleme ve Çoğaltma:
+
 •	Görselleri işlemek için aşağıdaki komutu çalıştırın:
 
   	python VeriArttirma.py
@@ -74,7 +76,6 @@ Bu proje, hasarlı araç görsellerinden hasar tespiti yapmak amacıyla gelişti
 
 Projeye katkıda bulunmak için pull request gönderin veya issue açın.
 
----
 ---
 ### Lisans
 
