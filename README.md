@@ -45,34 +45,38 @@ Bu proje, hasarlı araç görsellerinden hasar tespiti yapmak amacıyla gelişti
 - Python 3.9 veya üzeri
 - Gerekli kütüphaneler
   
-'
+
   Kurulum
-'
-	1.	Bu repoyu klonlayın:
+
+1.	Bu repoyu klonlayın:
  
- 	git clone https://github.com/ibrahimbugrasan/HasarliAracTespiti.git
-	cd HasarliAracTespiti
-'
- 	Çalıştırma
-'
-	•	Veri Kazıma:
-	•	Eğer site görselleri bir link içinde saklıyorsa:
+ 		git clone https://github.com/ibrahimbugrasan/HasarliAracTespiti.git
+		cd HasarliAracTespiti
+
+Çalıştırma
+
+•	Veri Kazıma:
+•	Eğer site görselleri bir link içinde saklıyorsa:
  	
   	python genelCrawler.py
-'
-   	•	Eğer site görselleri doğrudan <img> etiketi içinde saklıyorsa:
+
+•	Eğer site görselleri doğrudan <img> etiketi içinde saklıyorsa:
     
    	python imgCrawler.py
-'
-    	•	Veri İşleme ve Çoğaltma:
-	•	Görselleri işlemek için aşağıdaki komutu çalıştırın:
+
+•	Veri İşleme ve Çoğaltma:
+•	Görselleri işlemek için aşağıdaki komutu çalıştırın:
 
   	python VeriArttirma.py
 
+---
 ### Katkıda Bulunma
 
 Projeye katkıda bulunmak için pull request gönderin veya issue açın.
 
+---
+---
 ### Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır.
+---
