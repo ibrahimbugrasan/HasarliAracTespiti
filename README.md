@@ -69,10 +69,10 @@ Bu proje, hasarlı araç görsellerinden hasar tespiti yapmak amacıyla gelişti
 
   	python VeriArttirma.py
 
-Katkıda Bulunma
+### Katkıda Bulunma
 
 Projeye katkıda bulunmak için pull request gönderin veya issue açın.
 
-Lisans
+### Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır.
